@@ -6,3 +6,4 @@ feature 2 (10%)
 feature 2 (70%)
 feature 2 (100%)
 bug#1 fixed
+bug#2 fixed
