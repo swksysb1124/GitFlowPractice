@@ -2,3 +2,4 @@ development init 1
 feature 1 (10%)
 feature 2 (10%)
 feature 2 (70%)
+feature 2 (100%)
