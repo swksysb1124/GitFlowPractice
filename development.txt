@@ -1,0 +1,9 @@
+development init 1
+feature 1 (10%)
+feature 1 (50%)
+feature 1 (100%)
+feature 2 (10%)
+feature 2 (70%)
+feature 2 (100%)
+bug#1 fixed
+bug#2 fixed
